@@ -15,6 +15,11 @@ in this case, run ./twitter twitter.dat
 The following demo users and passwords for login purposes are: 
 
 Tommy - fighton
+
 Jill - password
+
 Mark - abc123
+
 Sam - Cs4
+
+-end-
