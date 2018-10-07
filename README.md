@@ -1,12 +1,15 @@
 # Twitter Clone
 
-Jay Doshi
+### Jay Doshi
 
-jaydoshi@usc.edu
+#### jaydoshi@usc.edu
+
+#### github.com/jaydoshi
+
 
 *This code is updated on https://github.com/jaydoshi/twitter-project, other project code is available on my profile*
 
-Download all the files, open in Linux command line:
+Download all the files, open the folder in Linux command line (only 2 lines needed, listed in bold):
 
 **make twitter**
 
@@ -33,5 +36,7 @@ Example:
 [User] [Hashed password] [User they are following] [User they are following]
 
 Mark 28114 Tommy Jill
+
+Mark is following Tommy and Jill
 
 -end-
