@@ -12,7 +12,7 @@
 
 
 
-##### 1.) Download all the files, open the folder in Linux command line (only 2 lines needed, listed in bold):
+##### 1.) Download all the files, open the folder in Linux command line (only 2 lines needed):
 
 **make twitter**
 
