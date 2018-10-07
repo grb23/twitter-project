@@ -7,17 +7,21 @@
 #### github.com/jaydoshi
 
 
+
 *This code is updated on https://github.com/jaydoshi/twitter-project, other project code is available on my profile*
 
-Download all the files, open the folder in Linux command line (only 2 lines needed, listed in bold):
+
+
+##### 1.) Download all the files, open the folder in Linux command line (only 2 lines needed, listed in bold):
 
 **make twitter**
 
-then
-
-run ./twitter [twitter input file]
+##### 2.) Run ./twitter [twitter input file]
 
 in this case, run **./twitter twitter.dat**
+
+
+
 
 The following demo users and passwords for login purposes are: 
 
