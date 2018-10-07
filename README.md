@@ -4,15 +4,17 @@ Jay Doshi
 
 jaydoshi@usc.edu
 
+*This code is updated on https://github.com/jaydoshi/twitter-project, other project code is available on my profile*
+
 Download all the files, open in Linux command line:
 
-make twitter
+**make twitter**
 
 then
 
 run ./twitter [twitter input file]
 
-in this case, run ./twitter twitter.dat
+in this case, run **./twitter twitter.dat**
 
 The following demo users and passwords for login purposes are: 
 
@@ -29,6 +31,7 @@ The twitter.dat file is required for use, the first line indicates how many user
 Example:
 
 [User] [Hashed password] [User they are following] [User they are following]
+
 Mark 28114 Tommy Jill
 
 -end-
